@@ -1,6 +1,6 @@
 ### ¡Hi 👋, I'm Samu 👨‍💻!
 
-![me](https://github.com/GaryMontoya/GaryMontoya/assets/151394307/b73e1194-4130-44fd-8e70-bca16d640b1b)
+![me]((https://github.com/GaryMontoya/GaryMontoya/assets/151394307/ae172e66-e394-4011-b23a-f2dcc9878287)
 
 - [Instaram](https://www.instagram.com/smontoyag/)
 - [X](https://twitter.com/samu7montoya)
