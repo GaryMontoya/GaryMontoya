@@ -6,7 +6,7 @@
 - [Instaram](https://www.instagram.com/smontoyag/)
 - [X](https://twitter.com/samu7montoya)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuMontoya)](https://github.com/anuraghazra/github-readme-stats)]
 
 <!--
 **GaryMontoya/GaryMontoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
